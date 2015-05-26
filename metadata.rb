@@ -1,0 +1,6 @@
+name              'housepub-dnsmasq'
+maintainer        'Joshua Timberman'
+maintainer_email  'cookbooks@housepub.org'
+license           'Apache 2.0'
+description       'customizations for dnsmasq cookbook'
+version           '0.1.0'
